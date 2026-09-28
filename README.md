@@ -447,7 +447,7 @@ to improve sentiment and sarcasm understanding in social-media-style content.
 
 The complete technical documentation is available in:
 
-**[`report/NLP-FINAL-REPORT.pdf`](./report/NLP-FINAL-REPORT.pdf)**
+**(./NLP-FINAL-REPORT.pdf)**
 
 The report contains the full:
 
