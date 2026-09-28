@@ -445,10 +445,6 @@ to improve sentiment and sarcasm understanding in social-media-style content.
 
 # 📄 Documentation
 
-The complete technical documentation is available in:
-
-**(./NLP-FINAL-REPORT.pdf)**
-
 The report contains the full:
 
 - Research motivation
